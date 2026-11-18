@@ -11,6 +11,8 @@
 ![Vite 8](https://img.shields.io/badge/Vite-8-123E6E?logo=vite&logoColor=8EC5F0)
 ![Sem backend](https://img.shields.io/badge/dados-s%C3%B3_no_navegador-FF8A4C)
 
+**[Abrir a Forja →](https://forja-nine-sigma.vercel.app)**
+
 <img src="docs/img/trilha.webp" alt="Tela Trilha: esquema de blocos ligados por linhas, no estilo de planta de arquiteto" width="100%">
 
 </div>
@@ -35,7 +37,7 @@ A Forja organiza o que estudar depois da graduação em ADS para chegar a engenh
 
 ## Como usar
 
-1. Abra o site e vá em **Hoje**. O exercício do topo já é o mais indicado para o momento.
+1. Abra [forja-nine-sigma.vercel.app](https://forja-nine-sigma.vercel.app) e vá em **Hoje**. O exercício do topo já é o mais indicado para o momento.
 2. Estude o tópico e marque os subtópicos na **prancha**. Quando todos estiverem marcados, o tópico conclui e libera os seguintes.
 3. Faça o exercício, clique em **Copiar pedido de avaliação** e cole numa conversa com o Claude.
 4. Registre a nota que ele der. Nota 7 ou mais conta como aprovado.
